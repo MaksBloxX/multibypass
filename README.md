@@ -24,4 +24,5 @@ Will be open sourced at 50 stars :P<br>
 # Preview
 ![img](https://cdn.discordapp.com/attachments/1142112760755409039/1142163319856304169/image.png) <br>
 ![img](https://cdn.discordapp.com/attachments/1142112760755409039/1142162716245643335/image.png) <br>
-![img](https://cdn.discordapp.com/attachments/1142112760755409039/1142162932935954482/image.png) 
+![img](https://cdn.discordapp.com/attachments/1142112760755409039/1142162932935954482/image.png) <br><br><br><br>
+THIS PROJECT IS UNDER THE GPL 3.0 LICENSE
